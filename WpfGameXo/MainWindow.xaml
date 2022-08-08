@@ -1,0 +1,5 @@
+﻿<Window x:Class="WpfGameXo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="600" Width="600">
+</Window>

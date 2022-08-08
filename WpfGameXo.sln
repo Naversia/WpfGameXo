@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfGameXo", "WpfGameXo\WpfGameXo.csproj", "{28B30312-352C-4CE1-9437-F48F88A98EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design", "Design\Design.csproj", "{BB27188E-C0BB-4379-A898-C613303548A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{6119E389-A2C6-477A-915A-6C50BCEC29AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B30312-352C-4CE1-9437-F48F88A98EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B30312-352C-4CE1-9437-F48F88A98EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B30312-352C-4CE1-9437-F48F88A98EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B30312-352C-4CE1-9437-F48F88A98EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB27188E-C0BB-4379-A898-C613303548A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB27188E-C0BB-4379-A898-C613303548A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB27188E-C0BB-4379-A898-C613303548A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB27188E-C0BB-4379-A898-C613303548A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6119E389-A2C6-477A-915A-6C50BCEC29AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6119E389-A2C6-477A-915A-6C50BCEC29AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6119E389-A2C6-477A-915A-6C50BCEC29AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6119E389-A2C6-477A-915A-6C50BCEC29AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C1A71E-8240-44D0-A6CF-B65B55BDE2FA}
+	EndGlobalSection
+EndGlobal
